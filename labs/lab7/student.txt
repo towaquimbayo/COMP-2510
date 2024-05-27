@@ -1,0 +1,15 @@
+Jack He 2.45 D
+Mary Jackson 4.0 I 70
+Mike Johnson 3.98 D
+Jane Zhang 4.0 I 120
+Towa Quimbayo 3.91 D
+John Robert 1.5 D
+Jane Zhong 4.0 I 120
+Jane Zhong 4.0 I 120
+Jane Zhong 4.0 I 120
+Jane Zhong 4.0 I 120
+Towa Quimbayo 3.92 D
+Jane Zhonz 4.0 I 120
+Jane Zhong 4.0 I 120
+Jane Zhang 4.0 I 120
+Jane Zhong 4.0 I 120
